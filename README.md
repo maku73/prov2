@@ -4,7 +4,7 @@ Here is a simple 5 page web page design.
 
 <h2>External libraries I use</h2>
 
-<a href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"> fontawesome-icon </a>
+<a href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"> www.fontawesome.com </a>
 
 <h2>screenshot </h2>
 
